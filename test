@@ -1,3 +1,10 @@
-<h1>hey, I"m a big heading.</h1>
-<p>hey, I'm a paragraph element.</p>
-<a href="http://www.pornhub.com">This is a pornhub link.</a>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test page</title>
+<body>
+	<h1>hey, I"m a big heading.</h1>
+	<p>hey, I'm a <b>paragraph</b> element.</p>
+	<a href="http://www.pornhub.com" target="_blank" title="fuck">This is a pornhub link.</a>
+</body>
+</html>
